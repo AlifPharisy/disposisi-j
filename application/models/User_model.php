@@ -50,3 +50,5 @@ $this->session->set_flashdata("success","Data user Berhasil DiDelete");
 }
 }
 }
+
+?>

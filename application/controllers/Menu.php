@@ -10,3 +10,5 @@ class Menu extends CI_Controller {
         $this->load->view('template/main',$data);
 	}
 }
+
+?>
